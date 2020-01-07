@@ -62,7 +62,9 @@
     </Reference>
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="Assets\button.cs" />
     <Compile Include="Assets\LowPoly Environment Pack\Demo\NewBehaviourScript.cs" />
+    <Compile Include="Assets\suriken.cs" />
     <Reference Include="Unity.Timeline.Editor">
       <HintPath>D:/Users/Owner/Desktop/TUMT_Unity_VR_B1040406_MaJaJa/Unity_VR_B1040406_MaJaJa/Library/ScriptAssemblies/Unity.Timeline.Editor.dll</HintPath>
     </Reference>
